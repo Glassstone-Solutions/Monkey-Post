@@ -1,0 +1,26 @@
+{
+  "name": "monkey-post",
+  "version": "1.0.0",
+  "description": "Original Africa football",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glassstone-Solutions/Monkey-Post.git"
+  },
+  "keywords": [
+    "Football"
+  ],
+  "author": "Thompson Edolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glassstone-Solutions/Monkey-Post/issues"
+  },
+  "homepage": "https://github.com/Glassstone-Solutions/Monkey-Post#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "parse-server": "^2.2.15"
+  }
+}
